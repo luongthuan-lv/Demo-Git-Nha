@@ -1,6 +1,7 @@
 package com.poly.demo_git;
 
 public class Thuan {
-    String name;
+    String name,address;
     int age;
+
 }
